@@ -1,0 +1,16 @@
+title="Full-stack developer"
+location="High Voltage Engineering Europa, B.V."
+city="Amersfoort"
+start_date="09-2021"
+end_date="08-2023"
+skills=["Python3", "Qt", "PostgreSQL","Twincat-PLC", "SVN", "Jenkins", "OOP", "Continuous Integration"]
+description="""
+    Full-stack development in controlling and automating particle accelerators, including various tasks:
+        Replacing a file based system with a database based system;
+        Designing Qt components for the HMI;
+        Using Twincat-PLC for all real-time machine interactions;
+        Replacing an older Python-PLC interaction system with a domain model;
+        Maintaining the build server;
+        Writing tests;
+        Software designing and documenting;
+"""

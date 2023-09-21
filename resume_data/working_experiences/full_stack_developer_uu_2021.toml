@@ -1,0 +1,14 @@
+title="Full-stack developer and bioinformatician"
+location="Utrecht University (M.Sc. intern)"
+city="Utrecht"
+start_date="03-2021"
+end_date="06-2021"
+skills=["Python3", "Django", "JavaScript", "MySQL/SQLite", "HTML/CSS", "Bash/Shell", "Git", "HMMER"]
+description="""
+    Built a phosphorylation site detection database using Django.
+    The data of interest was first collected from various genetic databases via FTP.
+    The collected data was processed using Python scripts, and finally stored in a MySQL database.
+    The data could be accessed by users via the Django webserver.
+    The website included a search tool, and various integrated bioinformatic tools (‘HMMER’)
+    that was used to obtain information about specific phosphorylation sites.
+"""

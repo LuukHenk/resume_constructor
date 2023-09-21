@@ -1,0 +1,2 @@
+title="2048 solver"
+description="Created my own version of the 2048 game in Rust, added an algorithm that can play the game, and a UI that displays the played games."
